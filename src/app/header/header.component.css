@@ -1,0 +1,33 @@
+.navbar
+{
+    background-color:#002966;
+    margin-bottom: 0px;
+}
+.navbar-brand
+{
+    color:white;
+    font-family: monospace;
+
+}
+
+li > a
+{
+    color: white
+
+}
+
+li > a:hover  {
+       color: orange
+       ;
+ }
+
+.dropdown-menu>li>a
+ {
+      color: black
+ }
+.active
+{
+    color:yellowgreen !important;
+    font-family: monospace;
+    /*background-color:#0c1a1e;*/
+}

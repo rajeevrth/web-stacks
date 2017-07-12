@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.comingSoon
+{
+    height:30%;
+    width:30%;
+}
+.adBanner
+{
+    position:absolute;
+    z-index:100000000;
+    top:57%;
+}
